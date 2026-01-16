@@ -36,7 +36,8 @@ I benchmarked TurboLog against a standard Python implementation on a **1.5GB log
 You need a C compiler (`gcc`).
 
 ```bash
-gcc turbolog.c -o turbolog```
+gcc turbolog.c -o turbolog
+```
 
 ### 2. Run the Analyzer
 **Basic Usage (Summary Mode):**
