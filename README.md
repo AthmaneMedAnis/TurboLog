@@ -25,10 +25,9 @@ I benchmarked TurboLog against a standard Python implementation on a **1.5GB log
 | **Python** | ~27 s | 1x |
 | **TurboLog (C)** | **~10.5 s** | **~2.6x** |
 
-*(Replace the placeholders above with your actual numbers)*
 
 > **Visual Proof:**
-> ![Benchmark Results](./Results/benchmark.png)
+> ![Benchmark Results](Results/benchmark.png)
 
 ## 🛠️ Installation & Usage
 
