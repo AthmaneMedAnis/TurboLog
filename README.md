@@ -27,6 +27,7 @@ I benchmarked TurboLog against a standard Python implementation on a **1.5GB log
 
 
 > **Visual Proof:**
+> 
 > ![Benchmark Results](Results/benchmark.png)
 
 ## 🛠️ Installation & Usage
