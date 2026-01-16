@@ -22,8 +22,8 @@ I benchmarked TurboLog against a standard Python implementation on a **1.5GB log
 
 | Implementation | Time Taken | Speedup |
 | :--- | :--- | :--- |
-| **Python** | ~XX.XX s | 1x |
-| **TurboLog (C)** | **~X.XX s** | **~20x** |
+| **Python** | ~27 s | 1x |
+| **TurboLog (C)** | **~10.5 s** | **~2.6x** |
 
 *(Replace the placeholders above with your actual numbers)*
 
